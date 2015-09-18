@@ -1,4 +1,4 @@
-# Partial Ordering, dependent graph, and scheduling
+# Partial Ordering, dependent graph, and scheduling (Java)
 
 Given a directed acyclic (dependency) graph, G = <N, E>,
 the task is to construct a schedule table based on the given dependency
